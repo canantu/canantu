@@ -1,5 +1,3 @@
-### Hi there 👋, my name is Canan
-#### I am a Software Test Engineer
 ![I am a Software Test Engineer](banner.png)
 
 I do content on Java SDET. I really enjoy learning new tools and techniques about Software Testing, as well as working on Selenium, Gurke, TestNG.
