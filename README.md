@@ -1,4 +1,4 @@
-![I am a Software Test Engineer](banner1.png)
+![I am a Software Test Engineer](banner.png)
 
 I do content on Java SDET. I really enjoy learning new tools and techniques about Software Testing, as well as working on Selenium, Cucumber, TestNG.
 
